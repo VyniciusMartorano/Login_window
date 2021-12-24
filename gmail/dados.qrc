@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>cil-x.png</file>
+    <file>IconGmail.png</file>
+  </qresource>
+  <qresource prefix="window_icon">
+    <file>logo_window.png</file>
+  </qresource>
+</RCC>
